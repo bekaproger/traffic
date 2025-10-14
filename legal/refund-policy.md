@@ -2,18 +2,42 @@
 
 **Last Updated: January 9, 2025**
 
-## No Refund Policy
+## 14-Day Money-Back Guarantee
 
-**ALL SALES ARE FINAL. TRAFFICNINJA.IO DOES NOT OFFER REFUNDS, CREDITS, OR PARTIAL REFUNDS UNDER ANY CIRCUMSTANCES.**
+**Trafficninja.io offers a 14-day money-back guarantee for first-time subscribers.**
 
-## 1. Understanding Our No Refund Policy
+### Eligibility
+You may request a full refund within 14 days of your initial purchase if:
+- This is your first subscription to Trafficninja.io
+- You request the refund within 14 calendar days from your initial purchase date
+- You contact us at support@trafficninja.io with your refund request
+
+### Exclusions
+The 14-day money-back guarantee does NOT apply to:
+- Subscription renewals (only the initial purchase is eligible)
+- Accounts that have previously received a refund
+- Duplicate or additional subscriptions on the same account
+- Subscriptions older than 14 days
+
+### How to Request a Refund
+To request a refund within the 14-day period:
+1. Email support@trafficninja.io or billing@trafficninja.io
+2. Include your account email address and transaction ID
+3. Submit your request within 14 days of your initial purchase
+4. We will process eligible refunds within 5-7 business days
+
+## After 14 Days: No Refund Policy
+
+**After the 14-day money-back guarantee period, ALL SALES ARE FINAL. TRAFFICNINJA.IO DOES NOT OFFER REFUNDS, CREDITS, OR PARTIAL REFUNDS.**
+
+## 1. Understanding Our Refund Policy
 
 By subscribing to Trafficninja.io, you acknowledge and agree that:
 
-- **All subscription fees are non-refundable**
-- **All charges are final once processed**
+- **After 14 days from initial purchase, all subscription fees are non-refundable**
+- **All subscription renewals are non-refundable**
 - **Unused article credits do not carry over and are not refundable**
-- **No refunds will be issued for any reason, including but not limited to:**
+- **No refunds will be issued after the 14-day period for any reason, including but not limited to:**
   - Dissatisfaction with AI-generated content quality
   - Failure to use the Service during your billing period
   - Cancellation mid-billing period
